@@ -1,0 +1,8 @@
+prefix=/home/joelson/catkin_ws/devel
+
+Name: leg_laser
+Description: Description of leg_laser
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/joelson/catkin_ws/devel
+
+Name: cloudwalker_util
+Description: Description of cloudwalker_util
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
